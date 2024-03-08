@@ -1,7 +1,7 @@
 PODS:
-  - KRActivityIndicatorView (3.0.7)
-  - KRProgressHUD (3.4.7):
-    - KRActivityIndicatorView (= 3.0.7)
+  - KRActivityIndicatorView (3.0.8)
+  - KRProgressHUD (3.4.8):
+    - KRActivityIndicatorView (= 3.0.8)
 
 DEPENDENCIES:
   - KRProgressHUD (from `../KRProgressHUD.podspec`)
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../KRProgressHUD.podspec"
 
 SPEC CHECKSUMS:
-  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
-  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  KRActivityIndicatorView: c5c503bf56e54834382dd926b64ff47287ca0006
+  KRProgressHUD: d0fb4e72428d312eb6966e84c543ea58fb1efbc7
 
-PODFILE CHECKSUM: 6936947bdd0925c7db3328f5a5efc1af4f95ec02
+PODFILE CHECKSUM: aff884d841c3ed80e8dec4e8df5cfe54b77cde57
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.15.2

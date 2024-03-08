@@ -4,14 +4,14 @@ import PackageDescription
 
 let package = Package(
     name: "KRProgressHUD",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v12)],
     products: [
         .library(
             name: "KRProgressHUD",
             targets: ["KRProgressHUD"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/krimpedance/KRActivityIndicatorView.git", from: "3.0.7"),
+        .package(url: "https://github.com/krimpedance/KRActivityIndicatorView.git", from: "3.0.8"),
     ],
     targets: [
         .target(

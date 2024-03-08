@@ -175,11 +175,11 @@ KRProgressHUD
 バグや機能のリクエストがありましたら, 気軽にコメントしてください.
 
 ## リリースノート
++ 3.4.8 :
+  - PrivacyInfo.xcprivacy を追加
+
 + 3.4.7 :
   - iOS 11 以下をサポート
-
-+ 3.4.6 :
-  - Xcode 12 に対応.
 
 ## ライセンス
 KRProgressHUDはMITライセンスに準拠しています.

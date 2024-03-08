@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 63;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -132,7 +132,7 @@
 				};
 			};
 			buildConfigurationList = 6B76305423350D0300B7FE9B /* Build configuration list for PBXProject "KRProgressHUDDemo" */;
-			compatibilityVersion = "Xcode 12.0";
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -358,11 +358,10 @@
 			baseConfigurationReference = 994DC6EFFEA4B215AAD5F34F /* Pods-KRProgressHUDDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3.4.7;
-				DEVELOPMENT_TEAM = C9S69ME8A5;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = KRProgressHUDDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -381,11 +380,10 @@
 			baseConfigurationReference = 9DF5449C0CD963C59EE7D6BE /* Pods-KRProgressHUDDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3.4.7;
-				DEVELOPMENT_TEAM = C9S69ME8A5;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = KRProgressHUDDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

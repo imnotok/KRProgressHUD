@@ -13,4 +13,5 @@ struct KRProgressHUDConfig {
     static var iconViewSize = CGSize(width: 50, height: 50)
     static var messageLabelTopMargin = CGFloat(10)
     static var messageLabelMinWidth = CGFloat(120)
+    static var hudViewCornerRadius = CGFloat(10)
 }

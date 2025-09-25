@@ -17,7 +17,7 @@ extension KRProgressHUD {
         hudViewController.view.translatesAutoresizingMaskIntoConstraints = false
 
         hudView.backgroundColor = .white
-        hudView.layer.cornerRadius = 10
+        hudView.layer.cornerRadius = KRProgressHUDConfig.hudViewCornerRadius
         hudView.translatesAutoresizingMaskIntoConstraints = false
 
         iconView.backgroundColor = .clear

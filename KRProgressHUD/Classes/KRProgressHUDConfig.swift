@@ -6,7 +6,7 @@
 //
 import UIKit
 
-struct KRProgressHUDConfig {
+public class KRProgressHUDConfig {
     static var fadeTime = Double(0.2)
     static var hudViewMargin = CGFloat(50)
     static var hudViewPadding = CGFloat(15)

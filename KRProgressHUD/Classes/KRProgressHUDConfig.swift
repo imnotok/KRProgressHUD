@@ -6,12 +6,12 @@
 //
 import UIKit
 
-public class KRProgressHUDConfig {
-    static var fadeTime = Double(0.2)
-    static var hudViewMargin = CGFloat(50)
-    static var hudViewPadding = CGFloat(15)
-    static var iconViewSize = CGSize(width: 50, height: 50)
-    static var messageLabelTopMargin = CGFloat(10)
-    static var messageLabelMinWidth = CGFloat(120)
-    static var hudViewCornerRadius = CGFloat(10)
+public final class KRProgressHUDConfig {
+    public static var fadeTime = Double(0.2)
+    public static var hudViewMargin = CGFloat(50)
+    public static var hudViewPadding = CGFloat(15)
+    public static var iconViewSize = CGSize(width: 50, height: 50)
+    public static var messageLabelTopMargin = CGFloat(10)
+    public static var messageLabelMinWidth = CGFloat(120)
+    public static var hudViewCornerRadius = CGFloat(10)
 }
